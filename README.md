@@ -1,6 +1,4 @@
-# Agentic AI Crash Course
 
-Welcome to the Agentic AI Crash Course. This tutorial folder contains resources and examples to help you learn the basics of building agentic AI systems.
 
 ## Contents
 
