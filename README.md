@@ -66,8 +66,7 @@ LANGSMITH_API_KEY=your_langsmith_api_key_here
 
 - **Google API key**: Get from [Google AI Studio](https://aistudio.google.com/)
 - **Groq API key**: Get from [Groq Console](https://console.groq.com/)
-- **LangSmith API key**: Get from [LangSmith](https://smith.langchain.com/) (optional, for tracing)
-
+- **LangSmith API key**: Get from [LangSmith](https://smith.langchain.com/)
 ### 4. Run the notebooks
 
 Launch Jupyter and open any notebook from the numbered folders:
@@ -82,14 +81,4 @@ Or run Streamlit apps (where applicable):
 streamlit run <folder>/app.py
 ```
 
-## Getting Started
 
-1. Start with `1_simple_llm_calling` to verify your setup.
-2. Work through the numbered folders in order.
-3. Explore the project folders (`10_*`, `11_*`) to see complete end-to-end examples.
-
-## Notes
-
-This course is designed for quick learning and practical application of agentic AI techniques.
-
-Codebasics Inc all rights reserved
